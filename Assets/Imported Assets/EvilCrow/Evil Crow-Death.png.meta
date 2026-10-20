@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 7da9420071fe90e4f8bf1fa917213ff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8941809543884630181
+    second: Evil Crow-Death_0
+  - first:
+      213: -4806071333557110832
+    second: Evil Crow-Death_1
+  - first:
+      213: 3173502004333829830
+    second: Evil Crow-Death_2
+  - first:
+      213: 5290748585296389109
+    second: Evil Crow-Death_3
+  - first:
+      213: 6134555181657626310
+    second: Evil Crow-Death_4
+  - first:
+      213: -7297514954874077392
+    second: Evil Crow-Death_5
+  - first:
+      213: -2067498333830459802
+    second: Evil Crow-Death_6
+  - first:
+      213: 986777785518238303
+    second: Evil Crow-Death_7
+  - first:
+      213: -4641070491711565876
+    second: Evil Crow-Death_8
+  - first:
+      213: 4735300591727019950
+    second: Evil Crow-Death_9
+  - first:
+      213: -6748209323161975049
+    second: Evil Crow-Death_10
+  - first:
+      213: -3100451224278549482
+    second: Evil Crow-Death_11
+  - first:
+      213: 3349738236430814446
+    second: Evil Crow-Death_12
+  - first:
+      213: 486173434859170117
+    second: Evil Crow-Death_13
+  - first:
+      213: -593294170746253089
+    second: Evil Crow-Death_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evil Crow-Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e0788760b71c70800000000000000
+      internalID: 8941809543884630181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f326f5976d4db0800000000000000
+      internalID: -4806071333557110832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cede4e424b8a0c20800000000000000
+      internalID: 3173502004333829830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ed768ec38c6940800000000000000
+      internalID: 5290748585296389109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61cb97f61522550800000000000000
+      internalID: 6134555181657626310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f31abffc40aba90800000000000000
+      internalID: -7297514954874077392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec25e2835ce43e0800000000000000
+      internalID: -2067498333830459802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aaf02fa2db1bd00800000000000000
+      internalID: 986777785518238303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf0cfb2afa979fb0800000000000000
+      internalID: -4641070491711565876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7069aacca27b140800000000000000
+      internalID: 4735300591727019950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f683f6cf5b8952a0800000000000000
+      internalID: -6748209323161975049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb375d90cf8f4d0800000000000000
+      internalID: -3100451224278549482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8009ad29ac7e20800000000000000
+      internalID: 3349738236430814446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492304c92c3fb600800000000000000
+      internalID: 486173434859170117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01c59581234c7f0800000000000000
+      internalID: -593294170746253089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb066e2a9f461549b4c82cca7a41886
+      internalID: 1026269564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c581c903b0a454c8c8371349376cd2
+      internalID: 1901141266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435769308ad7d8b4b8ba46ff53ab9ef2
+      internalID: -1064112482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ba6c4f0e086e43913a92fbc5ce81e
+      internalID: 105858704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b007ad6078d7a40b98d974c42ec492
+      internalID: 1768783137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Crow-Death_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecaca2f67d61e345a4c0890f3824ec7
+      internalID: 1742134151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bee076858da3fa428c98d6e48b57bc0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":22.0,"y":1.0},"gridSpriteSize":{"x":42.0,"y":36.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Evil Crow-Death_0: 8941809543884630181
+      Evil Crow-Death_1: -4806071333557110832
+      Evil Crow-Death_10: -6748209323161975049
+      Evil Crow-Death_11: -3100451224278549482
+      Evil Crow-Death_12: 3349738236430814446
+      Evil Crow-Death_13: 486173434859170117
+      Evil Crow-Death_14: -593294170746253089
+      Evil Crow-Death_15: 1026269564
+      Evil Crow-Death_16: 1901141266
+      Evil Crow-Death_17: -1064112482
+      Evil Crow-Death_18: 105858704
+      Evil Crow-Death_19: 1768783137
+      Evil Crow-Death_2: 3173502004333829830
+      Evil Crow-Death_20: 1742134151
+      Evil Crow-Death_3: 5290748585296389109
+      Evil Crow-Death_4: 6134555181657626310
+      Evil Crow-Death_5: -7297514954874077392
+      Evil Crow-Death_6: -2067498333830459802
+      Evil Crow-Death_7: 986777785518238303
+      Evil Crow-Death_8: -4641070491711565876
+      Evil Crow-Death_9: 4735300591727019950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

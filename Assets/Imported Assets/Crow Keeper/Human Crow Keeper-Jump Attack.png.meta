@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: a4bcf7642a89b0443934577deff50073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1883397217356149690
+    second: Human Crow Keeper-Jump Attack_0
+  - first:
+      213: 6019911291867484209
+    second: Human Crow Keeper-Jump Attack_1
+  - first:
+      213: -424097036570262380
+    second: Human Crow Keeper-Jump Attack_2
+  - first:
+      213: -2914129869470021524
+    second: Human Crow Keeper-Jump Attack_3
+  - first:
+      213: -4158952506248583842
+    second: Human Crow Keeper-Jump Attack_4
+  - first:
+      213: 5389103494520697009
+    second: Human Crow Keeper-Jump Attack_5
+  - first:
+      213: -3563634030481841503
+    second: Human Crow Keeper-Jump Attack_6
+  - first:
+      213: -7365950575309098148
+    second: Human Crow Keeper-Jump Attack_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f87f5acb232a10800000000000000
+      internalID: 1883397217356149690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130df13dc650b8350800000000000000
+      internalID: 6019911291867484209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d15f7bd06d04743a93fd37787479f9
+      internalID: -424097036570262380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8c2349030f954fb34f5c2dabd33ce
+      internalID: -2914129869470021524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c5adef90a0b94ab2e4db57ed32d31
+      internalID: -4158952506248583842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108244f5c2773b847b9ed4ce9ae9868b
+      internalID: 5389103494520697009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f51ea5f338fb49bbc80e70fb53593
+      internalID: -3563634030481841503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b8841db0a10b48b5fac54df37e18d
+      internalID: -7365950575309098148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1631ba7235a6c504594be2783616aea0
+      internalID: 903632121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6194bdc8eb4f438b5f88539c7c2ac
+      internalID: -1428764795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034c95e25ca66848a5736ddc429d2c2
+      internalID: 739993347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8c0029acdbbb4b9d685791949de33
+      internalID: 596761050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd652c95de0be1343aa03a607e48953a
+      internalID: -223485206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ff34fc75b5514c88b4aacf747f147
+      internalID: 577886275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6a82cc13866e4988c607855914a78
+      internalID: -420776083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d235bbc7042f4488dc5bd97b7e15c
+      internalID: -567537094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_16
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa39fb8ed875fa45ad62d611bfd06da
+      internalID: 70748429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_17
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645622e8c58229a4c865487e122a0776
+      internalID: 1986335959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Jump Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f4e096352ff9f42afda8aff501c275
+      internalID: -1243819295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f53f57c393d1aa74e85a9798de9630ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":19.0,"y":1.0},"gridSpriteSize":{"x":134.0,"y":92.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4300000071525574,"y":0.11999999731779099},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Human Crow Keeper-Jump Attack_0: 1883397217356149690
+      Human Crow Keeper-Jump Attack_1: 6019911291867484209
+      Human Crow Keeper-Jump Attack_10: 739993347
+      Human Crow Keeper-Jump Attack_11: 596761050
+      Human Crow Keeper-Jump Attack_12: -223485206
+      Human Crow Keeper-Jump Attack_13: 577886275
+      Human Crow Keeper-Jump Attack_14: -420776083
+      Human Crow Keeper-Jump Attack_15: -567537094
+      Human Crow Keeper-Jump Attack_16: 70748429
+      Human Crow Keeper-Jump Attack_17: 1986335959
+      Human Crow Keeper-Jump Attack_18: -1243819295
+      Human Crow Keeper-Jump Attack_2: -424097036570262380
+      Human Crow Keeper-Jump Attack_3: -2914129869470021524
+      Human Crow Keeper-Jump Attack_4: -4158952506248583842
+      Human Crow Keeper-Jump Attack_5: 5389103494520697009
+      Human Crow Keeper-Jump Attack_6: -3563634030481841503
+      Human Crow Keeper-Jump Attack_7: -7365950575309098148
+      Human Crow Keeper-Jump Attack_8: 903632121
+      Human Crow Keeper-Jump Attack_9: -1428764795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

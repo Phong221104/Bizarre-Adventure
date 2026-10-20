@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 8b29653d2e17254448e394e76e2739c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -631181414464928482
+    second: Human Crow Keeper-Land Atack_0
+  - first:
+      213: -8866034972061165234
+    second: Human Crow Keeper-Land Atack_1
+  - first:
+      213: 8279847191557774308
+    second: Human Crow Keeper-Land Atack_2
+  - first:
+      213: 8231366092591354438
+    second: Human Crow Keeper-Land Atack_3
+  - first:
+      213: -8260155920167471817
+    second: Human Crow Keeper-Land Atack_4
+  - first:
+      213: -2705949495942948476
+    second: Human Crow Keeper-Land Atack_5
+  - first:
+      213: -845147014680877464
+    second: Human Crow Keeper-Land Atack_6
+  - first:
+      213: -217038953403635940
+    second: Human Crow Keeper-Land Atack_7
+  - first:
+      213: 4788542106736456068
+    second: Human Crow Keeper-Land Atack_8
+  - first:
+      213: -2751967875008910671
+    second: Human Crow Keeper-Land Atack_9
+  - first:
+      213: 780855371128609031
+    second: Human Crow Keeper-Land Atack_10
+  - first:
+      213: -6724480941149794475
+    second: Human Crow Keeper-Land Atack_11
+  - first:
+      213: 5801532528184335459
+    second: Human Crow Keeper-Land Atack_12
+  - first:
+      213: -2632859175177093951
+    second: Human Crow Keeper-Land Atack_13
+  - first:
+      213: 7012515297659326459
+    second: Human Crow Keeper-Land Atack_14
+  - first:
+      213: 6815329220324098893
+    second: Human Crow Keeper-Land Atack_15
+  - first:
+      213: -6815099656954962930
+    second: Human Crow Keeper-Land Atack_16
+  - first:
+      213: 3157892987222678940
+    second: Human Crow Keeper-Land Atack_17
+  - first:
+      213: 6944607276106576977
+    second: Human Crow Keeper-Land Atack_18
+  - first:
+      213: -8275798494889135519
+    second: Human Crow Keeper-Land Atack_19
+  - first:
+      213: -9167843081197443036
+    second: Human Crow Keeper-Land Atack_20
+  - first:
+      213: 6814960059477504689
+    second: Human Crow Keeper-Land Atack_21
+  - first:
+      213: 4882667946655411992
+    second: Human Crow Keeper-Land Atack_22
+  - first:
+      213: -2152487780371463545
+    second: Human Crow Keeper-Land Atack_23
+  - first:
+      213: 7107552124405020788
+    second: Human Crow Keeper-Land Atack_24
+  - first:
+      213: -3359301239147202692
+    second: Human Crow Keeper-Land Atack_25
+  - first:
+      213: 9057947476110917251
+    second: Human Crow Keeper-Land Atack_26
+  - first:
+      213: 252557019070963253
+    second: Human Crow Keeper-Land Atack_27
+  - first:
+      213: -6318756759162854056
+    second: Human Crow Keeper-Land Atack_28
+  - first:
+      213: 884025065879183009
+    second: Human Crow Keeper-Land Atack_29
+  - first:
+      213: -3388543320656884822
+    second: Human Crow Keeper-Land Atack_30
+  - first:
+      213: 8335600312876255663
+    second: Human Crow Keeper-Land Atack_31
+  - first:
+      213: -52546437195239101
+    second: Human Crow Keeper-Land Atack_32
+  - first:
+      213: -7945246604075968838
+    second: Human Crow Keeper-Land Atack_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e154df109d79d37f0800000000000000
+      internalID: -631181414464928482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e499a1cca2485f480800000000000000
+      internalID: -8866034972061165234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1157f62de7e270800000000000000
+      internalID: 8279847191557774308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6425a1d79dfab3270800000000000000
+      internalID: 8231366092591354438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f31d64f70e5d80800000000000000
+      internalID: -8260155920167471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895c2a2549827ad0800000000000000
+      internalID: -2705949495942948476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e6f6944f6544f0800000000000000
+      internalID: -845147014680877464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1724f7c83cecfcf0800000000000000
+      internalID: -217038953403635940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f600eca1547240800000000000000
+      internalID: 4788542106736456068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baaec85ccb0fc9d0800000000000000
+      internalID: -2751967875008910671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7099319a2d726da00800000000000000
+      internalID: 780855371128609031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_11
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc1eb3638dda2a0800000000000000
+      internalID: -6724480941149794475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_12
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c1d47b81f238050800000000000000
+      internalID: 5801532528184335459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_13
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf0f79784367bd0800000000000000
+      internalID: -2632859175177093951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_14
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff0af26285715160800000000000000
+      internalID: 7012515297659326459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_15
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4302c411d9e49e50800000000000000
+      internalID: 6815329220324098893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_16
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c105e48f6eb61a0800000000000000
+      internalID: -6815099656954962930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Crow Keeper-Land Atack_17
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 134
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dda1ec0f613db20800000000000000
+      internalID: 3157892987222678940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a185d11c91e668d449bdf0f08f402367
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":18.0,"y":1.0},"gridSpriteSize":{"x":134.0,"y":92.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4300000071525574,"y":0.11999999731779099},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Human Crow Keeper-Land Atack_0: -631181414464928482
+      Human Crow Keeper-Land Atack_1: -8866034972061165234
+      Human Crow Keeper-Land Atack_10: 780855371128609031
+      Human Crow Keeper-Land Atack_11: -6724480941149794475
+      Human Crow Keeper-Land Atack_12: 5801532528184335459
+      Human Crow Keeper-Land Atack_13: -2632859175177093951
+      Human Crow Keeper-Land Atack_14: 7012515297659326459
+      Human Crow Keeper-Land Atack_15: 6815329220324098893
+      Human Crow Keeper-Land Atack_16: -6815099656954962930
+      Human Crow Keeper-Land Atack_17: 3157892987222678940
+      Human Crow Keeper-Land Atack_2: 8279847191557774308
+      Human Crow Keeper-Land Atack_3: 8231366092591354438
+      Human Crow Keeper-Land Atack_4: -8260155920167471817
+      Human Crow Keeper-Land Atack_5: -2705949495942948476
+      Human Crow Keeper-Land Atack_6: -845147014680877464
+      Human Crow Keeper-Land Atack_7: -217038953403635940
+      Human Crow Keeper-Land Atack_8: 4788542106736456068
+      Human Crow Keeper-Land Atack_9: -2751967875008910671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
