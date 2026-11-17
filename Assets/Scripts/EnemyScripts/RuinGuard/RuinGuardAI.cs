@@ -52,7 +52,7 @@ public class RuinGuardAI : MonoBehaviour
 
     [Header("Toxin")]
     [Range(0f, 100f)]
-    [SerializeField] private float toxinChance = 80f;
+//    [SerializeField] private float toxinChance = 80f;
 
     [SerializeField] private float toxinCooldown = 12f;
 
@@ -682,8 +682,8 @@ public class RuinGuardAI : MonoBehaviour
         if (!toxinArea.OverlapPoint(target.position))
             return;
 
-        PlayerHealth playerHealth =
-            target.GetComponent<PlayerHealth>();
+        PlayerStatus playerHealth =
+            target.GetComponent<PlayerStatus>();
 
         if (playerHealth == null)
             return;

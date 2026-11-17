@@ -40,8 +40,8 @@ public class ThornSlimeHealth : EnemyHealth
         if (!collision.gameObject.CompareTag("Player"))
             return;
 
-        PlayerHealth playerHealth =
-            collision.gameObject.GetComponent<PlayerHealth>();
+        PlayerStatus playerHealth =
+            collision.gameObject.GetComponent<PlayerStatus>();
 
         if (playerHealth != null)
         {

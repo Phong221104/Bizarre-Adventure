@@ -1,26 +1,26 @@
+
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] private float speed;
-    [SerializeField] private float lifeTime;
-    [SerializeField] private int damage;
+    [SerializeField] protected float speed;
+    [SerializeField] protected float lifeTime;
+    [SerializeField] protected int damage;
 
-    [SerializeField] private GameObject hitEffectPrefab;
-    [SerializeField] private float hitEffectLifeTime = 0.5f;
+    [SerializeField] protected GameObject hitEffectPrefab;
+    [SerializeField] protected float hitEffectLifeTime = 0.5f;
 
-    private Rigidbody2D rb;
-
-    private float timer;
+    protected Rigidbody2D rb;
+    protected float timer;
 
     public int Damage => damage;
 
-    private void Awake()
+    protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    public void Fire(Vector3 position, Quaternion rotation)
+    public virtual void Fire(Vector3 position, Quaternion rotation)
     {
         transform.SetPositionAndRotation(position, rotation);
 
@@ -31,7 +31,7 @@ public class Bullet : MonoBehaviour
         rb.linearVelocity = transform.right * speed;
     }
 
-    private void Update()
+    protected virtual void Update()
     {
         timer -= Time.deltaTime;
 
@@ -39,9 +39,10 @@ public class Bullet : MonoBehaviour
             ReturnPool();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    protected virtual void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision == null) return;
+        if (collision == null)
+            return;
 
         EnemyHealth enemy = collision.GetComponent<EnemyHealth>();
 
@@ -55,7 +56,8 @@ public class Bullet : MonoBehaviour
             GameObject effect = Instantiate(
                 hitEffectPrefab,
                 transform.position,
-                transform.rotation);
+                transform.rotation
+            );
 
             Destroy(effect, hitEffectLifeTime);
         }
@@ -63,7 +65,7 @@ public class Bullet : MonoBehaviour
         ReturnPool();
     }
 
-    private void ReturnPool()
+    protected virtual void ReturnPool()
     {
         rb.linearVelocity = Vector2.zero;
 

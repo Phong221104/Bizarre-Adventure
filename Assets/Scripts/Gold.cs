@@ -1,7 +1,9 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Gold : MonoBehaviour
 {
+    [SerializeField] private GameObject coinDisappearEffect;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (!collision.CompareTag("Player"))
@@ -12,6 +14,7 @@ public class Gold : MonoBehaviour
         if (goldManager != null)
         {
             goldManager.AddGold(1);
+            Instantiate(coinDisappearEffect, gameObject.transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
     }

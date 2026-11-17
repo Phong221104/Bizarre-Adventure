@@ -467,8 +467,8 @@ public class OrcRiderAI : MonoBehaviour
         if (!hitbox.IsTouching(targetCollider))
             return;
 
-        PlayerHealth playerHealth =
-            target.GetComponent<PlayerHealth>();
+        PlayerStatus playerHealth =
+            target.GetComponent<PlayerStatus>();
 
         if (playerHealth == null)
             return;

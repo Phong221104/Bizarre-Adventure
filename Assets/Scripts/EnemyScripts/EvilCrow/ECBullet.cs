@@ -39,7 +39,7 @@ public class ECBullet : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            collision.GetComponent<PlayerHealth>().TakeDamage(damage);
+            collision.GetComponent<PlayerStatus>().TakeDamage(damage);
         }
 
         GameObject effect = Instantiate(hitEffect, transform.position, Quaternion.identity);

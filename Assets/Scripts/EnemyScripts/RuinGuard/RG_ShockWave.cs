@@ -27,7 +27,7 @@ public class RG_ShockWave : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            collision.GetComponent<PlayerHealth>().TakeDamage(damage);
+            collision.GetComponent<PlayerStatus>().TakeDamage(damage);
         }
     }
 }

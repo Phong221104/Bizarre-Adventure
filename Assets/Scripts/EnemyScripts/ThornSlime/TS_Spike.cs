@@ -30,8 +30,8 @@ public class TS_Spike : MonoBehaviour
         if (!collision.CompareTag("Player"))
             return;
 
-        PlayerHealth playerHealth =
-            collision.GetComponent<PlayerHealth>();
+        PlayerStatus playerHealth =
+            collision.GetComponent<PlayerStatus>();
 
         if (playerHealth != null)
         {

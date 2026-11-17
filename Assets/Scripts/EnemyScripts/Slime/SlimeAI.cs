@@ -11,7 +11,7 @@ public class SlimeAI : MonoBehaviour
     private float nextWaypointDistance = 0.3f;
 
     [Header("Attack")]
-    [SerializeField] private int damage = 1;
+//    [SerializeField] private int damage = 1;
 
     private bool isFacingRight = true;
 

@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float speed = 4f;
 
     private Vector2 move;
+    public bool IsFacingUp { get; private set; }
 
     private Rigidbody2D rb;
     private SpriteRenderer playerSprite;
@@ -47,6 +48,22 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("moveX", Mathf.Abs(move.x));
         animator.SetFloat("moveY", move.y);
         animator.SetFloat("AbsMoveY", Mathf.Abs(move.y));
+
+        if (Mathf.Abs(move.x) < 0.01f)
+        {
+            if (move.y > 0.01f)
+            {
+                IsFacingUp = true;
+            }
+            else if (move.y < -0.01f)
+            {
+                IsFacingUp = false;
+            }
+        }
+        else
+        {
+            IsFacingUp = false;
+        }
     }
 
     private void Flip()

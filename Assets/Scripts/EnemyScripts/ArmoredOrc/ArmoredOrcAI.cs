@@ -177,9 +177,6 @@ public class ArmoredOrcAI : MonoBehaviour
         }
     }
 
-    // ===================== ANIMATION EVENTS =====================
-
-    // Called via Animation Event during the attack clip (the "hit frame")
     private void AttackHit()
     {
         if (attackPoint == null)
@@ -194,33 +191,18 @@ public class ArmoredOrcAI : MonoBehaviour
         if (hit == null)
             return;
 
-        PlayerHealth playerHealth = hit.GetComponent<PlayerHealth>();
+        PlayerStatus playerHealth = hit.GetComponent<PlayerStatus>();
         if (playerHealth != null)
         {
             playerHealth.TakeDamage(damage);
         }
     }
 
-    // Called via Animation Event at the end of the attack clip.
-    //
-    // IMPORTANT: this always exits to Idle, even if the target is still in
-    // attack range. Two reasons:
-    //  1) Re-entering Attack directly (ChangeState(States.Attack) while
-    //     currentState is already Attack) is a no-op in ChangeState, so the
-    //     "Attack" bool never got re-enabled -> stuck animation.
-    //  2) Forcing an Animator.Play() to restart the clip mid-state caused the
-    //     glitch on consecutive attacks (animation stuck on the first frame).
-    // Routing every attack end through Idle guarantees a real state change
-    // (Attack -> Idle -> Attack), so the animator transitions normally, and
-    // it also gives a natural cooldown between attacks (idleMinTime..idleMaxTime)
-    // so the orc can no longer attack twice in a row.
     private void CancelAttackAnimation()
     {
         animator.SetBool("Attack", false);
         ChangeState(States.Idle);
     }
-
-    // ===============================================================
 
     private void ChangeState(States newState)
     {

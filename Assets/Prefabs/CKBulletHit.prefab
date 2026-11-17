@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2521940358568018723}
   - component: {fileID: 1834937704984335627}
   - component: {fileID: 3887863929357944867}
+  - component: {fileID: 5851654831854230278}
   m_Layer: 10
   m_Name: CKBulletHit
   m_TagString: Untagged
@@ -80,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_MaskInteraction: 0
   m_Sprite: {fileID: -7483463781937692015, guid: d96e640c66b51a6428e3f3aecc07282b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -114,3 +115,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5851654831854230278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2389497922614263780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a864b81e8bca764fb2f08c0b8ea5c05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SelfDestroy

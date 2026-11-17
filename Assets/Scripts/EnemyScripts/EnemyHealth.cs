@@ -80,6 +80,6 @@ public abstract class EnemyHealth : MonoBehaviour
         if (!collision.gameObject.CompareTag("Player"))
             return;
 
-        collision.gameObject.GetComponent<PlayerHealth>().TakeDamage(contactDamage);
+        collision.gameObject.GetComponent<PlayerStatus>().TakeDamage(contactDamage);
     }
 }

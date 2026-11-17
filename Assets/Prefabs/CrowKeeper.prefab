@@ -253,7 +253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   maxHealth: 600
   contactDamage: 1
-  goldPrefab: {fileID: 7093416597778168370, guid: 74e2b2facd00a4c4fba1e5426d80132f, type: 3}
+  goldPrefab: {fileID: 8790178777778843609, guid: 74e2b2facd00a4c4fba1e5426d80132f, type: 3}
   minGoldDrop: 2
   maxGoldDrop: 5
   currentHealth: 0
